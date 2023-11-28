@@ -82,7 +82,7 @@ button {
 
 .hero-text {
   position: relative;
-
+  top: 100px;
 }
 
 .title {
@@ -929,7 +929,7 @@ footer {
   }
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:320px) {
   .navigation {
     gap: 20px;
   }
