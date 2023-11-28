@@ -947,4 +947,7 @@ footer {
     padding: 20px;
   }
 
+  .separator {
+    display: none;
+  }
 }
