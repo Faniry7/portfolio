@@ -936,6 +936,11 @@ footer {
     width: 145px;
   }
 
+  .hero {
+    height: auto;
+    margin-top: 0px;
+  }
+
   .wrap {
     width: auto;
     margin: 10px;
